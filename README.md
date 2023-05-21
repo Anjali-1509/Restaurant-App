@@ -16,8 +16,11 @@ Its responsive design ensures a consistent and optimized experience across diffe
 
 ## Tech Stack
 React
-HTML5
-CSS3
+
+HTML
+
+CSS
+
 JavaScript
 
 ## Acknowledgements
