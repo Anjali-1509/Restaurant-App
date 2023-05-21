@@ -14,7 +14,7 @@ const Header = () => (
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.welcome} alt="header_img" />
+      <img src="https://images.pexels.com/photos/3338497/pexels-photo-3338497.jpeg?cs=srgb&dl=pexels-cottonbro-studio-3338497.jpg&fm=jpg" alt="header_img" />
     </div>
   </div>
 );
